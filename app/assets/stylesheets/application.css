@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+
+.nav {
+  flex: auto;,
+  flex-direction: row;
+  height: 89px;
+}
